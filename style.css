@@ -1,0 +1,48 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    
+    text-align: center;
+
+    margin: 64px auto;
+}
+
+#mulher {
+    width: 626px;
+    height: 426px;
+    margin: 64px auto ;
+
+}
+
+
+#mulher image {
+    margin: 0 138px 32px 138px;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: normal;
+    font-weight: 500;
+    margin: 0 16px 16px 16px;
+}
+
+h1 span {
+    color: #EE24FF;
+    font-weight: 700;
+}
+
+p {
+    width: 540px;
+    height: 107px;
+    color: #828282;
+    font-size: 15px;
+    margin: auto;
+}
+
+p strong {
+    color: #3F3D56;
+}
+
+#footer img {
+    align-items: center;
+}
